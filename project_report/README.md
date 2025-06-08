@@ -34,8 +34,21 @@ The current implementation of traffic simulation is vague and confusing. The use
 <img width="600" src="images/simulation-tab-traffic-max.png" alt="Traffic Max Screen in Digital Prototype">
 <img width="600" src="images/simulation-tab-rush-times.png" alt="Rush Times Screen in Digital Prototype">
 
-
 ## Design Research and Key Insights
+
+The goal of this research process is to help reimage the user experience, interface, and overall usability of the software Synchro Studio.
+
+The 1st Method we used was Contextual Inquiry.
+- We wanted to get insight on how users interact with the software by observing and then following up with some questions for clarity.
+
+2nd Method we used was a Focus group Study
+- We wanted to get insight from 3 participants from the TCE 327 on their thoughts of using Synchro Studio software.
+Since the participants were new to the software, we would be able to get an understanding of how user friendly the software is to new users.
+
+Key Insights:
+- From the focus group, one of the participants explained that they found a tab within the software very helpful to work with. This was the network tab that had all network settings and can be changed within it. We then decided that a user profile, where the user can save and access their preferences, would be similar to that aspect.
+- Within the focus group, there wasn’t much else that could provide useful information. Users seemed to be very happy with the way the software was designed. This mostly has to do with the fact that they only touched the software 3 times, giving them little time to find any problems with it. Instead we decided to focus on the problem that our team found. We noticed that the traffic simulator seemed very confusing, so we wanted to make some changes for it that would make it more user friendly.
+
 
 
 
