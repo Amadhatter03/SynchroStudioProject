@@ -46,4 +46,22 @@ The current implementation of traffic simulation is vague and confusing. The use
 
 ## Technical and Soft Skills Gained
 
+### Technical skills 
+- Figma
+- Usability Testing
+- Paper/Digital Prototyping
+- Storyboards
+- Contextual Inquiry Observation
+- Focus Groups
+
+### Soft skills 
+- Collaboration
+- Feedback Integration
+- Time Management
+- Internal/Group Conflict Management
+- Creative Problem Solving
+- Product Evaluation
+
+
+
 
