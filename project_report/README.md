@@ -19,7 +19,20 @@ We decided to implement a user profile system that would allow users to have a p
 
 ## Design Walkthrough
 
+### Add User Profiles
 
+Currently, there is no way of saving individual preferences and settings on a network. In our redesign, the user will click the profile button in the top right corner and then create a profile in the dialogue screen that proceeds the list of users. This will add the user to the list of users. From the users screen you can modify (protected by password) or delete (protected by password) existing users from this screen.
+
+<img width="300" src="images/digital-prototype-john-doe-added.png" alt="List of Users">
+<img width="300" src="images/digital-prototype-create-new-user.png" alt="Dialogue Box to Create a New User">
+
+### Restructure Simulation Interface
+
+The current implementation of traffic simulation is vague and confusing. The user will select the simulation tab and navigate to one of the three subtabs (“Traffic Volume”, “Traffic Max”, & “Rush Times”) depending on the aspect of the simulation that they wish to modify. Once the user is finished modifying the simulation settings, they can interact with one of the simulation playback buttons (“Rewind”, “Pause”, “Play”, “Restart”, & “Fast Forward”) to run the simulation.
+
+<img width="300" src="images/simulation-tab-traffic-volume.png" alt="Traffic Volume Screen in Digital Prototype">
+<img width="300" src="images/simulation-tab-traffic-max.png" alt="Traffic Max Screen in Digital Prototype">
+<img width="300" src="images/simulation-tab-rush-times.png" alt="Rush Times Screen in Digital Prototype">
 
 
 ## Design Research and Key Insights
