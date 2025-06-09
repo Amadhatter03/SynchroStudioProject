@@ -51,8 +51,39 @@ Key Insights:
 
 ## Iterative Design and Key Insights
 
+We began with creating a paper prototype that demonstrates our User Profile Task, that will allow users to create a profile for themselves. We then created another for our traffic simulation task, that allows users to perform traffic simulations with a more user friendly design.
 
+<img width="600" src="images/paper-prototype-view-user.png" alt="View User Screen in Paper Prototype">
+<img width="600" src="images/paper-prototype-traffic-volume.png" alt="Traffic Volume Screen in Prototype Paper">
 
+We then performed a usability test on our 2 tasks where the group “Women in Stem” tested them.
+
+From the Usability testing we encountered several issues:
+- In Profile User Task
+    1. The User Icon was small and didn’t seem like an icon for the user.
+    2. There wasn’t a way for the user to input a password after creating a profile and signing back into it.
+    3. There was no indication of maps/projects successfully being imported
+- In Traffic Simulation Task
+    1. Within the traffic volume tab, our testers were confused on which buttons to interact with.
+    2. Users also didn’t use the “exit” button within each tab
+
+We took all that insight from Usability testing and created a digital prototype of each task with the help of figma. We were only able to get a heuristic evaluation done for our User profile task since our traffic simulation task wasn’t fully complete.
+- In User Profile Task
+    1. There was no way of confirming the passwords so that the user didn't mistype it.
+    2. The User Tab seemed to cluttered
+    3. Not enough clarity on what each setting does
+
+Key Insights:
+1. More clarity in our User Profile Digital Prototype
+    - We found that our user profile prototype caused confusion for the group that conducted a heuristic evaluation on it.
+    - We added some details on our settings section to giving the user an idea of that settings can be changes
+    - We changed our “done” button to “confirm” . The word “done” seemed vague to users. “Confirm” seemed like the more appropriate word which was recommended by the group that evaluated our prototype.
+2. Enlarged User Profile pop up box
+    - Was considered too small, so we decided to make it bigger, to avoid any clutter within the sections.
+3. Password Verification
+    - We added a second input bar that will allow users to retype the password just in case they mistyped it.
+
+<img width="600" src="images/digital-prototype-create-new-user.png" alt="Dialogue Box to Create a New User">
 
 ## Technical and Soft Skills Gained
 
